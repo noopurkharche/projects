@@ -1,6 +1,8 @@
-Programing language: Python
+Implement Logistic Regression using perceptron.
 
- 
+Implemented a perceptron for logistic regression in python. Used sigmoid function as activation function and cross-entropy as an objective function. Performed both batch Training and Online Training using Gradient Descent. Also, plotted ROC and calculated the Area Under ROC to evaluate the performance of LR classifier.
+
+Programing language: Python
 
 TO run the code Just type in the following command 
 
